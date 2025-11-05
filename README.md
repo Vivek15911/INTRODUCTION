@@ -64,7 +64,6 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  ## 📊 GitHub Stats
 
 ![Vivek's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Vivek15911&show_icons=true&theme=tokyonight&hide_border=true&border_radius=10)
 
@@ -82,4 +81,4 @@
 
 ---
 
-⭐ _“Strive not to be a success, but rather to be of value.” – Albert Einstein_
+⭐ “Code is like humor. When you have to explain it, it’s bad.” – Cory House
