@@ -64,9 +64,10 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  ![Vivek's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Vivek15911&show_icons=true&theme=tokyonight&hide_border=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Vivek15911&layout=compact&theme=tokyonight&hide_border=true)
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Vivek15911&theme=tokyonight&hide_border=true)
+  ## 📊 GitHub Stats
+
+![Vivek's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Vivek15911&show_icons=true&theme=tokyonight&hide_border=true&border_radius=10)
+
 </p>
 
 ---
@@ -74,11 +75,8 @@
 ## 📫 Let's Connect!
 
 <p align="center">
-  <a href="https://github.com/mayankdevhub">
-    <img src="https://img.shields.io/badge/GitHub-Mayank-black?style=for-the-badge&logo=github" />
-  </a>
-  <a href="https://leetcode.com/O2cOLmgNl1/">
-    <img src="https://img.shields.io/badge/LeetCode-Mayank-orange?style=for-the-badge&logo=leetcode" />
+  <a href="https://github.com/Vivek1911">
+    <img src="https://img.shields.io/badge/GitHub-Vivek-black?style=for-the-badge&logo=github" />
   </a>
 </p>
 
